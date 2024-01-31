@@ -2,7 +2,6 @@ package application;
 
 import entities.Product;
 
-import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -18,5 +17,8 @@ public class Demo4 {
             System.out.println(p);
         }
 
+        String string = "migueel";
+
+        System.out.println(string.toUpperCase());
     }
 }
